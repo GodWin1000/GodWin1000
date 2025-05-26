@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark)
 
 ## 📫 Cómo contactarme
-- ✉️ Email: `tucorreo@ejemplo.com`
+- ✉️ Email: `emil-sebas1@outlook.com`
 - 💼 LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-usuario/)
 - 🌐 Portafolio personal: *en desarrollo...*
 
