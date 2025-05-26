@@ -33,8 +33,8 @@
 - 🔮 **RPG 2D en Godot** – En etapas de planificación.
 
 ## 📈 GitHub Stats
-![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark)
+![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodWin1000&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1000&layout=compact&theme=github_dark)
 
 ## 📫 Cómo contactarme
 - Email: `tucorreo@ejemplo.com`
