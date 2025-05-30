@@ -38,7 +38,6 @@
 
 ## 📫 Cómo contactarme
 - Email: `tucorreo@ejemplo.com`
-- LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-usuario/)
 - Portafolio: *En construcción...*
 
 ---
@@ -62,7 +61,6 @@
 
 ## 📫 Cómo contactarme
 - ✉️ Email: `emil-sebas1@outlook.com`
-- 💼 LinkedIn: [TuPerfilLinkedIn](https://www.linkedin.com/in/tu-usuario/)
 - 🌐 Portafolio personal: *en desarrollo...*
 
 ---
