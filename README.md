@@ -16,11 +16,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ## 🔐 En proceso de aprendizaje# GodWin1000
-# 👋 ¡Hola! Soy Emilio Sebastián Pereyra Sosa
-
-🎓 Estudiante de Ingeniería en Desarrollo de Software  
-💻 Apasionado por la programación, especialmente en Python y desarrollo de videojuegos  
-🎮 Actualmente trabajando en un juego arcade de motos de luz con Pygame
 
 ## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1000&layout=compact&theme=github_dark)
 
 ## 📫 Cómo contactarme
-- Email: `tucorreo@ejemplo.com`
+- Email: `emil-sebas1@outlook.com`
 - Portafolio: *En construcción...*
 
 ---
