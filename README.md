@@ -61,8 +61,7 @@ Me gusta aprender haciendo, documentar mis proyectos y mejorar progresivamente m
 ---
 
 ## 📫 Contacto
-- ✉️ Email: `tucorreo@ejemplo.com`
-- 💼 LinkedIn: https://www.linkedin.com/in/tu-usuario
+- ✉️ Email: `emil-sebas1@outlook.com`
 - 🌐 Portafolio: *en desarrollo*
 
 ---
