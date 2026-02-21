@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Estudiante de **Ingeniería en Desarrollo de Software (5º semestre)** con experiencia en  
+Estudiante de **Ingeniería en Desarrollo de Software** con experiencia en  
 **desarrollo web, programación en múltiples lenguajes, bases de datos y entornos Linux**.
 
 He desarrollado **proyectos universitarios y personales**, enfocados en soluciones funcionales,
@@ -51,7 +51,6 @@ Me caracterizo por ser **autodidacta, analítico y orientado a la mejora continu
 - Uso de Linux orientado a seguridad
 - Fundamentos de redes
 - Análisis básico de vulnerabilidades
-- Buenas prácticas de seguridad en aplicaciones
 
 ---
 
@@ -61,6 +60,7 @@ Me caracterizo por ser **autodidacta, analítico y orientado a la mejora continu
 - Desarrollo de **videojuegos arcade y 2D**
 - Proyectos con enfoque en **lógica, estructuras y algoritmos**
 - Documentación y control de versiones con Git
+- Manejo de terminal en linux 
 
 ---
 
