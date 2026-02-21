@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Estudiante de **séptimo semestre de Ingeniería en Desarrollo de Software**, con enfoque en  
+Estudiante de **Ingeniería en Desarrollo de Software**, con enfoque en  
 **desarrollo Full Stack, bases de datos y seguridad informática**.
 
 Cuento con experiencia en el **desarrollo de aplicaciones web**, integración de **API REST**,
