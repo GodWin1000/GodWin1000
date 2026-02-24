@@ -1,5 +1,5 @@
 <h1 align="center">👋 Emilio Sebastián Pereyra Sosa</h1>
-<h3 align="center">Ingeniero en Desarrollo de Software (en curso) · Full Stack Developer</h3>
+<h3 align="center">Ingeniero en Desarrollo de Software · Full Stack Developer</h3>
 
 <p align="center">
   🌐 Desarrollo Web · 🗃️ Bases de Datos · 🔐 Ciberseguridad · 🧠 Aprendizaje Continuo
