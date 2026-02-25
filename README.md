@@ -29,7 +29,7 @@ con mentalidad analítica, responsabilidad y orientación a la solución de prob
 ## Experiencia
 
 ### Desarrollador de Software – Proyectos Universitarios    
-📍 Mérida, Yucatán
+- Mérida, Yucatán
 
 - Desarrollo de aplicaciones web con arquitectura **cliente-servidor** usando  
   **HTML, CSS, JavaScript, Django y React**.
