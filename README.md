@@ -1,8 +1,8 @@
-<h1 align="center">👋 Emilio Sebastián Pereyra Sosa</h1>
+<h1 align="center">Emilio Sebastián Pereyra Sosa</h1>
 <h3 align="center">Ingeniero en Desarrollo de Software · Full Stack Developer</h3>
 
 <p align="center">
-  🌐 Desarrollo Web · 🗃️ Bases de Datos · 🔐 Ciberseguridad · 🧠 Aprendizaje Continuo
+  Desarrollo Web · Bases de Datos · Ciberseguridad · Aprendizaje Continuo
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Perfil Profesional
+## Perfil Profesional
 
 Estudiante de **Ingeniería en Desarrollo de Software**, con enfoque en  
 **desarrollo Full Stack, bases de datos y seguridad informática**.
@@ -26,7 +26,7 @@ con mentalidad analítica, responsabilidad y orientación a la solución de prob
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 ### Desarrollador de Software – Proyectos Universitarios    
 📍 Mérida, Yucatán
@@ -47,7 +47,7 @@ con mentalidad analítica, responsabilidad y orientación a la solución de prob
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Lenguajes de Programación
 <p>
@@ -85,7 +85,7 @@ con mentalidad analítica, responsabilidad y orientación a la solución de prob
 
 ---
 
-## 🤝 Habilidades Blandas
+## Habilidades Blandas
 - Trabajo en equipo y colaboración técnica  
 - Pensamiento analítico y resolución de problemas  
 - Comunicación efectiva  
@@ -94,12 +94,12 @@ con mentalidad analítica, responsabilidad y orientación a la solución de prob
 
 ---
 
-## 🎓 Educación
+## Educación
 
 **Universidad Privada de la Península (UPP)**  
 Ingeniería en Desarrollo de Software  
-📍 Mérida, Yucatán  
-📅 Séptimo semestre – En curso  
+- Mérida, Yucatán  
+- Séptimo semestre – En curso  
 
 **Proyectos destacados:**
 - Sistema web para punto de venta  
@@ -107,13 +107,13 @@ Ingeniería en Desarrollo de Software
 
 ---
 
-## 🌍 Idiomas
+## Idiomas
 - Español: Nativo  
 - Inglés: Intermedio (lectura técnica y documentación)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=github_dark&hide_border=true" />
   <br>
@@ -122,7 +122,7 @@ Ingeniería en Desarrollo de Software
 
 ---
 
-## 🎯 Objetivo Profesional
+## Objetivo Profesional
 Busco oportunidades como **Desarrollador Full Stack Jr / Becario / Prácticas Profesionales**,
 donde pueda aplicar mis conocimientos técnicos, fortalecer mis habilidades en **ciberseguridad**
 y crecer en entornos profesionales reales.
