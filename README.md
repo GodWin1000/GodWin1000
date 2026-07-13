@@ -1,132 +1,138 @@
-<h1 align="center">Emilio Sebastián Pereyra Sosa</h1>
-<h3 align="center">Ingeniero en Desarrollo de Software · Full Stack Developer</h3>
+<h1 align="center">
+Hola 👋, soy Emilio Sebastián Pereyra Sosa
+</h1>
+
+<h3 align="center">
+Full Stack Developer en formación | Ingeniería en Desarrollo de Software | Futuro especialista en Ciberseguridad
+</h3>
 
 <p align="center">
-  Desarrollo Web · Bases de Datos · Ciberseguridad · Aprendizaje Continuo
+
+Recien graduado de **Ingeniería en Desarrollo de Software** con interés en el desarrollo **Full Stack**, bases de datos, automatización y seguridad informática.
+
+Actualmente desarrollo aplicaciones web utilizando **React, Vue, Django, JavaScript y Python**, además de fortalecer mis conocimientos en **Linux, Docker y Ciberseguridad**.
+
+
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-pereyra-089939347/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVn5gLNzzTESDFnpuOyvt1A%3D%3D">LinkedIn</a> •
-  <a href="mailto:emil-sebas1@outlook.com">Email</a> •
-  <span>Mérida, Yucatán</span>
-</p>
-
 ---
 
-## Perfil Profesional
+# 🚀 Tecnologías
 
-Estudiante de **Ingeniería en Desarrollo de Software**, con enfoque en  
-**desarrollo Full Stack, bases de datos y seguridad informática**.
+## 💻 Lenguajes
 
-Cuento con experiencia en el **desarrollo de aplicaciones web**, integración de **API REST**,
-automatización con **Python** y trabajo colaborativo utilizando **Git** y **metodologías ágiles (Scrum)**.
-
-Interesado en crecer profesionalmente como **Desarrollador Full Stack** y **especialista en Ciberseguridad**,
-con mentalidad analítica, responsabilidad y orientación a la solución de problemas.
-
----
-
-## Experiencia
-
-### Desarrollador de Software – Proyectos Universitarios    
-- Mérida, Yucatán
-
-- Desarrollo de aplicaciones web con arquitectura **cliente-servidor** usando  
-  **HTML, CSS, JavaScript, Django y React**.
-- Diseño e implementación de **bases de datos relacionales** con **MySQL y SQLite**,  
-  aplicando consultas SQL y normalización básica.
-- Integración y consumo de **API REST**, manejo de datos en **JSON** y validación de información.
-- Desarrollo de un **sistema web para punto de venta**, enfocado en gestión de productos e inventario.
-- Programación de un **videojuego 2D estilo Tron** con **Python y Pygame**, implementando:
-  - Detección de colisiones  
-  - Lógica de juego  
-  - IA básica  
-  - Persistencia de datos
-- Trabajo colaborativo con **Git y GitHub**, aplicando buenas prácticas de control de versiones
-  y metodología **Scrum**.
-
----
-
-## Habilidades Técnicas
-
-### Lenguajes de Programación
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+
 </p>
 
-### Frameworks y Tecnologías
-- Django  
-- React  
-- API REST  
-- JSON  
+## ⚙️ Frameworks y Tecnologías
 
-### Bases de Datos
-- MySQL  
-- SQLite  
+<p>
 
-### Herramientas y Entornos
-- Git / GitHub  
-- Docker (nivel básico)  
-- Visual Studio Code  
-- Linux (CLI)  
-- Windows  
+<img src="https://skillicons.dev/icons?i=django,react,vue"/>
 
-### Otros Conocimientos
-- Programación Orientada a Objetos (POO)  
-- Desarrollo Web Full Stack  
-- Automatización básica con Python  
-- Fundamentos de Ciberseguridad  
-- Metodologías ágiles (Scrum)  
+</p>
+
+- API REST
+- JSON
 
 ---
 
-## Habilidades Blandas
-- Trabajo en equipo y colaboración técnica  
-- Pensamiento analítico y resolución de problemas  
-- Comunicación efectiva  
-- Adaptabilidad y aprendizaje continuo  
-- Responsabilidad y compromiso profesional  
+## 🗄️ Bases de Datos
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- SQLite
+- SQL
 
 ---
 
-## Educación
+## 🛠 Herramientas
 
-**Universidad Privada de la Península (UPP)**  
-Ingeniería en Desarrollo de Software  
-- Mérida, Yucatán  
-- Séptimo semestre – En curso  
+<p>
 
-**Proyectos destacados:**
-- Sistema web para punto de venta  
-- Videojuego 2D con Python y Pygame  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,windows"/>
+
+</p>
 
 ---
 
-## Idiomas
-- Español: Nativo  
-- Inglés: Intermedio (lectura técnica y documentación)
+# 📚 Actualmente aprendiendo
+
+- 🔐 Ciberseguridad
+- 🐧 Linux avanzado
+- 🏗 Arquitectura de Software
+- ☁️ Docker
+- ⚡ Buenas prácticas de desarrollo
 
 ---
 
-## GitHub Analytics
+# 💼 Experiencia
+
+### Desarrollador de Software
+
+**Universidad Privada de la Península**
+
+He participado en el desarrollo de diversos proyectos académicos, entre ellos:
+
+- 🌐 Aplicaciones web Full Stack
+- 🛒 Sistema de Punto de Venta
+- 📦 Sistema de Inventario
+- 🔗 Integración de API REST
+- 🗃 Diseño de bases de datos relacionales
+- 🎮 Videojuego 2D estilo Tron con Python y Pygame
+- 🤝 Trabajo colaborativo mediante Git y Scrum
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=github_dark&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Objetivo Profesional
-Busco oportunidades como **Desarrollador Full Stack Jr / Becario / Prácticas Profesionales**,
-donde pueda aplicar mis conocimientos técnicos, fortalecer mis habilidades en **ciberseguridad**
-y crecer en entornos profesionales reales.
+# 🎯 Objetivos 2026
+
+- ✅ Fortalecer mis habilidades como Full Stack Developer
+- ✅ Especializarme en Ciberseguridad
+- ✅ Contribuir a proyectos Open Source
+- ✅ Obtener mi primera oportunidad profesional como desarrollador
+- ✅ Continuar aprendiendo nuevas tecnologías
 
 ---
 
-> *“El software bien construido nace de la lógica, la disciplina y la mejora constante.”*
+# 🌎 Idiomas
+
+🇲🇽 Español — Nativo
+
+🇺🇸 Inglés — Nivel 4 (lectura técnica y documentación)
+
+---
+
+# 📫 Contacto
+
+📧 emil-sebas1@outlook.com
+
+💼 LinkedIn
+
+🌐 Portafolio (Próximamente)
+
+---
+
+<div align="center">
+
+*"Nunca dejo de aprender, porque la tecnología nunca deja de evolucionar."*
+
+</div>
