@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas%20al%20perfil&color=00c6ff&style=flat" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=GodWin1000&label=Visitas%20al%20perfil&color=00c6ff&style=flat" alt="visitas"/>
 <img src="https://img.shields.io/badge/Estado-Buscando%20oportunidades-2c5364?style=flat&logo=target&logoColor=white" alt="estado"/>
 
 </div>
@@ -81,7 +81,6 @@ Actualmente desarrollo aplicaciones web con **React, Vue, Django, JavaScript y P
 <td width="100%">
 
 ### Desarrollador de Software
-**Universidad Privada de la Península**
 
 He participado en el desarrollo de diversos proyectos académicos, entre ellos:
 
@@ -103,10 +102,10 @@ He participado en el desarrollo de diversos proyectos académicos, entre ellos:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GodWin1000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1000&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GodWin1000&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
